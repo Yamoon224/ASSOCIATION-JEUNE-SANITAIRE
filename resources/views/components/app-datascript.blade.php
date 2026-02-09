@@ -1,9 +1,9 @@
-<script src="{{ asset('public/lib/datatables.net-dt/js/jquery.dataTables.min.js') }}"></script>
-<script src="{{ asset('public/lib/datatables.net-dt/js/dataTables.dataTables.min.js') }}"></script>
-<script src="{{ asset('public/lib/datatables.net-responsive-dt/js/dataTables.responsive.min.js') }}"></script>
-<script src="{{ asset('public/lib/datatables.net-responsive-dt/js/responsive.dataTables.min.js') }}"></script>
-<script src="{{ asset('public/lib/select2/js/select2.min.js') }}"></script>
-<script src="{{ asset('public/js/azia.js') }}"></script>
+<script src="{{ asset('lib/datatables.net-dt/js/jquery.dataTables.min.js') }}"></script>
+<script src="{{ asset('lib/datatables.net-dt/js/dataTables.dataTables.min.js') }}"></script>
+<script src="{{ asset('lib/datatables.net-responsive-dt/js/dataTables.responsive.min.js') }}"></script>
+<script src="{{ asset('lib/datatables.net-responsive-dt/js/responsive.dataTables.min.js') }}"></script>
+<script src="{{ asset('lib/select2/js/select2.min.js') }}"></script>
+<script src="{{ asset('js/azia.js') }}"></script>
 <x-app-select2></x-app-select2>
 <script>
     $(function(){

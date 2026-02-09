@@ -194,12 +194,12 @@
     </div>
 
     @push('scripts')
-    <script src="{{ asset('public/lib/jquery.flot/jquery.flot.js') }}"></script>
-    <script src="{{ asset('public/lib/jquery.flot/jquery.flot.resize.js') }}"></script>
-    <script src="{{ asset('public/lib/chart.js/Chart.bundle.min.js') }}"></script>
+    <script src="{{ asset('lib/jquery.flot/jquery.flot.js') }}"></script>
+    <script src="{{ asset('lib/jquery.flot/jquery.flot.resize.js') }}"></script>
+    <script src="{{ asset('lib/chart.js/Chart.bundle.min.js') }}"></script>
 
-    <script src="{{ asset('public/js/azia.js') }}"></script>
-    <script src="{{ asset('public/js/chart.flot.sampledata.js') }}"></script>
+    <script src="{{ asset('js/azia.js') }}"></script>
+    <script src="{{ asset('js/chart.flot.sampledata.js') }}"></script>
 
     <script>
         $(function(){

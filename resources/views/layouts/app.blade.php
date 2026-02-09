@@ -7,18 +7,18 @@
         <meta content="APP GESTION CLINIQUE" name="description"/>
         <meta content="AJS" name="author"/>
         <title>{{ config('app.name', 'Laravel') }}</title>
-        <link rel="shortcut icon" type="image/x-icon" href="{{ asset('public/images/logo.png') }}">  
+        <link rel="shortcut icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">  
 
         <!-- vendor css -->
-        <link href="{{ asset('public/lib/fontawesome-free/css/all.min.css') }}" rel="stylesheet"/>
-        <link href="{{ asset('public/lib/ionicons/css/ionicons.min.css') }}" rel="stylesheet"/>
-        <link href="{{ asset('public/lib/typicons.font/typicons.css') }}" rel="stylesheet"/>
+        <link href="{{ asset('lib/fontawesome-free/css/all.min.css') }}" rel="stylesheet"/>
+        <link href="{{ asset('lib/ionicons/css/ionicons.min.css') }}" rel="stylesheet"/>
+        <link href="{{ asset('lib/typicons.font/typicons.css') }}" rel="stylesheet"/>
         
         @stack('links')
 
         <!-- azia CSS -->
-        <link href="{{ asset('public/css/azia.css') }}" rel="stylesheet"/>
-        <link href="{{ asset('public/css/custom.css') }}" rel="stylesheet"/>
+        <link href="{{ asset('css/azia.css') }}" rel="stylesheet"/>
+        <link href="{{ asset('css/custom.css') }}" rel="stylesheet"/>
     </head>
     <body class="az-body az-dashboard-eight">
         <x-app-header></x-app-header>
@@ -28,9 +28,9 @@
 
         <x-app-footer></x-app-footer>
 
-        <script src="{{ asset('public/lib/jquery/jquery.min.js') }}"></script>
-        <script src="{{ asset('public/lib/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-        <script src="{{ asset('public/lib/ionicons/ionicons.js') }}"></script>
+        <script src="{{ asset('lib/jquery/jquery.min.js') }}"></script>
+        <script src="{{ asset('lib/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+        <script src="{{ asset('lib/ionicons/ionicons.js') }}"></script>
 
         @stack('scripts')
     </body>

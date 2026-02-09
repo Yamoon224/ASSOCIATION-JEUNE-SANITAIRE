@@ -4,7 +4,7 @@
         <div class="swiper-container parallax-slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="bg-img valign" data-background="{{ asset('public/images/slider-1.jpg') }}" data-overlay-dark="2">
+                    <div class="bg-img valign" data-background="{{ asset('images/slider-1.jpg') }}" data-overlay-dark="2">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-7 col-md-12">
@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="bg-img valign" data-background="{{ asset('public/images/slider-2.jpg') }}" data-overlay-dark="2">
+                    <div class="bg-img valign" data-background="{{ asset('images/slider-2.jpg') }}" data-overlay-dark="2">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-7 col-md-12">
@@ -81,7 +81,7 @@
                 <!-- single service -->
                 <div class="col-lg-4 col-md-4 col-sm-12 wow zr-theme-single-service fadeInLeft text-center" data-wow-delay="0.2s">
                     <div class="zr-theme-single-service-card">
-                        <img src="{{ asset('public/images/services/service-1.jpg') }}" alt="image">
+                        <img src="{{ asset('images/services/service-1.jpg') }}" alt="image">
                         <h5>Physiotherapy</h5>
                         <p>Physiotherapy is a type of therapy that uses physical movement to help people recover from injuries, illnesses.</p>
                     </div>
@@ -91,7 +91,7 @@
                 <!-- single service -->
                 <div class="col-lg-4 col-md-4 col-sm-12 wow zr-theme-single-service fadeInLeft text-center" data-wow-delay="0.2s">
                     <div class="zr-theme-single-service-card">
-                        <img src="{{ asset('public/images/services/service-2.jpg') }}" alt="image">
+                        <img src="{{ asset('images/services/service-2.jpg') }}" alt="image">
                         <h5>Routine Medical Care</h5>
                         <p>Routine medical care, Preventive care wellness care, essential for maintaining health preventing illness.</p>
                     </div>
@@ -101,7 +101,7 @@
                 <!-- single service -->
                 <div class="col-lg-4 col-md-4 col-sm-12 wow zr-theme-single-service fadeInLeft text-center" data-wow-delay="0.2s">
                     <div class="zr-theme-single-service-card">
-                        <img src="{{ asset('public/images/services/service-3.jpg') }}" alt="image">
+                        <img src="{{ asset('images/services/service-3.jpg') }}" alt="image">
                         <h5>Nursing Services</h5>
                         <p>Encompass a wide range of healthcare practices provided by licensed nurses to promote, maintain, restore health.</p>
                     </div>
@@ -111,7 +111,7 @@
                 <!-- single service -->
                 <div class="col-lg-4 col-md-4 col-sm-12 wow zr-theme-single-service fadeInLeft text-center" data-wow-delay="0.2s">
                     <div class="zr-theme-single-service-card">
-                        <img src="{{ asset('public/images/services/service-4.jpg') }}" alt="image">
+                        <img src="{{ asset('images/services/service-4.jpg') }}" alt="image">
                         <h5>Vaccination</h5>
                         <p>Vaccines work by exposing the body to a weakened or inactive form of a virus, which helps body develop immunity.</p>
                     </div>
@@ -121,7 +121,7 @@
                 <!-- single service -->
                 <div class="col-lg-4 col-md-4 col-sm-12 wow zr-theme-single-service fadeInLeft text-center" data-wow-delay="0.2s">
                     <div class="zr-theme-single-service-card">
-                        <img src="{{ asset('public/images/services/service-5.jpg') }}" alt="image">
+                        <img src="{{ asset('images/services/service-5.jpg') }}" alt="image">
                         <h5>Minor Surgery</h5>
                         <p>Surgical procedure that is typically less invasive and requires less time to complete than major surgery.</p>
                     </div>
@@ -131,7 +131,7 @@
                 <!-- single service -->
                 <div class="col-lg-4 col-md-4 col-sm-12 wow zr-theme-single-service fadeInLeft text-center" data-wow-delay="0.2s">
                     <div class="zr-theme-single-service-card">
-                        <img src="{{ asset('public/images/services/service-6.jpg') }}" alt="image">
+                        <img src="{{ asset('images/services/service-6.jpg') }}" alt="image">
                         <h5>Diagnostic Imaging</h5>
                         <p>Is a group of medical tests that use different imaging techniques to create pictures of the inside of the body.</p>
                     </div>
@@ -241,7 +241,7 @@
                                 <div class="product">
                                     <div class="row">
                                         <div class="col-lg-5 col-md-12">
-                                            <img class="product-image" src="{{ asset('public/images/store/product-1.jpg') }}" alt="image">
+                                            <img class="product-image" src="{{ asset('images/store/product-1.jpg') }}" alt="image">
                                         </div>
                                         <div class="col-lg-7 col-md-12 product-description">
                                             <h3 class="product-title">Candice Cromwell</h3>
@@ -287,7 +287,7 @@
                                 <div class="product">
                                     <div class="row">
                                         <div class="col-lg-5 col-md-12">
-                                            <img class="product-image" src="{{ asset('public/images/store/product-2.jpg') }}" alt="image">
+                                            <img class="product-image" src="{{ asset('images/store/product-2.jpg') }}" alt="image">
                                         </div>
                                         <div class="col-lg-7 col-md-12 product-description">
                                             <h3 class="product-title">Doctor Name</h3>
@@ -333,7 +333,7 @@
                                 <div class="product">
                                     <div class="row">
                                         <div class="col-lg-5 col-md-12">
-                                            <img class="product-image" src="{{ asset('public/images/store/product-3.jpg') }}" alt="image">
+                                            <img class="product-image" src="{{ asset('images/store/product-3.jpg') }}" alt="image">
                                         </div>
                                         <div class="col-lg-7 col-md-12 product-description">
                                             <h3 class="product-title">Doctor Name</h3>
@@ -379,7 +379,7 @@
                                 <div class="product">
                                     <div class="row">
                                         <div class="col-lg-5 col-md-12">
-                                            <img class="product-image" src="{{ asset('public/images/store/product-4.jpg') }}" alt="image">
+                                            <img class="product-image" src="{{ asset('images/store/product-4.jpg') }}" alt="image">
                                         </div>
                                         <div class="col-lg-7 col-md-12 product-description">
                                             <h3 class="product-title">Doctor Name</h3>
@@ -471,10 +471,10 @@
                     <!-- gallery-item -->
                     <div class="col-lg-3 col-md-3 gallery-grid-item all dentistry ophthalmlogy">
                         <div class="gallery-item">
-                            <img src="{{ asset('public/images/photos/gallery-1.jpg') }}" alt="image">
+                            <img src="{{ asset('images/photos/gallery-1.jpg') }}" alt="image">
                             <div class="gallery-img-overlay">
                                 <div class="gallery-content">
-                                    <a href="{{ asset('public/images/photos/gallery-1.jpg') }}" class="popimg"> 
+                                    <a href="{{ asset('images/photos/gallery-1.jpg') }}" class="popimg"> 
 										<span class="icon">View Large <i class="fa fa-search-plus" aria-hidden="true"></i></span>
 									</a>
                                 </div>
@@ -484,10 +484,10 @@
                     <!-- gallery-item -->
                     <div class="col-lg-3 col-md-3 gallery-grid-item all dentistry pediatrics">
                         <div class="gallery-item">
-                            <img src="{{ asset('public/images/photos/gallery-2.jpg') }}" alt="image">
+                            <img src="{{ asset('images/photos/gallery-2.jpg') }}" alt="image">
                             <div class="gallery-img-overlay">
                                 <div class="gallery-content">
-                                    <a href="{{ asset('public/images/photos/gallery-2.jpg') }}" class="popimg"> 
+                                    <a href="{{ asset('images/photos/gallery-2.jpg') }}" class="popimg"> 
 										<span class="icon">View Large <i class="fa fa-search-plus" aria-hidden="true"></i></span>
 									</a>
                                 </div>
@@ -497,10 +497,10 @@
                     <!-- gallery-item -->
                     <div class="col-lg-3 col-md-3 gallery-grid-item all dentistry ophthalmlogy">
                         <div class="gallery-item">
-                            <img src="{{ asset('public/images/photos/gallery-3.jpg') }}" alt="image">
+                            <img src="{{ asset('images/photos/gallery-3.jpg') }}" alt="image">
                             <div class="gallery-img-overlay">
                                 <div class="gallery-content">
-                                    <a href="{{ asset('public/images/photos/gallery-3.jpg') }}" class="popimg"> 
+                                    <a href="{{ asset('images/photos/gallery-3.jpg') }}" class="popimg"> 
 										<span class="icon">View Large <i class="fa fa-search-plus" aria-hidden="true"></i></span>
 									</a>
                                 </div>
@@ -510,10 +510,10 @@
                     <!-- gallery-item -->
                     <div class="col-lg-3 col-md-3 gallery-grid-item all dentistry webdesig pediatricsn">
                         <div class="gallery-item">
-                            <img src="{{ asset('public/images/photos/gallery-4.jpg') }}" alt="image">
+                            <img src="{{ asset('images/photos/gallery-4.jpg') }}" alt="image">
                             <div class="gallery-img-overlay">
                                 <div class="gallery-content">
-                                    <a href="{{ asset('public/images/photos/gallery-4.jpg') }}" class="popimg"> 
+                                    <a href="{{ asset('images/photos/gallery-4.jpg') }}" class="popimg"> 
 										<span class="icon">View Large <i class="fa fa-search-plus" aria-hidden="true"></i></span>
 									</a>
                                 </div>
@@ -523,10 +523,10 @@
                     <!-- gallery-item -->
                     <div class="col-lg-3 col-md-3 gallery-grid-item all dentistry ophthalmlogy pediatrics">
                         <div class="gallery-item">
-                            <img src="{{ asset('public/images/photos/gallery-5.jpg') }}" alt="image">
+                            <img src="{{ asset('images/photos/gallery-5.jpg') }}" alt="image">
                             <div class="gallery-img-overlay">
                                 <div class="gallery-content">
-                                    <a href="{{ asset('public/images/photos/gallery-5.jpg') }}" class="popimg"> 
+                                    <a href="{{ asset('images/photos/gallery-5.jpg') }}" class="popimg"> 
 										<span class="icon">View Large <i class="fa fa-search-plus" aria-hidden="true"></i></span>
 									</a>
                                 </div>
@@ -536,10 +536,10 @@
                     <!-- gallery-item -->
                     <div class="col-lg-3 col-md-3 gallery-grid-item all dentistry ophthalmlogy surgery">
                         <div class="gallery-item">
-                            <img src="{{ asset('public/images/photos/gallery-6.jpg') }}" alt="image">
+                            <img src="{{ asset('images/photos/gallery-6.jpg') }}" alt="image">
                             <div class="gallery-img-overlay">
                                 <div class="gallery-content">
-                                    <a href="{{ asset('public/images/photos/gallery-6.jpg') }}" class="popimg"> 
+                                    <a href="{{ asset('images/photos/gallery-6.jpg') }}" class="popimg"> 
 										<span class="icon">View Large <i class="fa fa-search-plus" aria-hidden="true"></i></span>
 									</a>
                                 </div>
@@ -549,10 +549,10 @@
                     <!-- gallery-item -->
                     <div class="col-lg-3 col-md-3 gallery-grid-item all dentistry ophthalmlogy surgery">
                         <div class="gallery-item">
-                            <img src="{{ asset('public/images/photos/gallery-7.jpg') }}" alt="image">
+                            <img src="{{ asset('images/photos/gallery-7.jpg') }}" alt="image">
                             <div class="gallery-img-overlay">
                                 <div class="gallery-content">
-                                    <a href="{{ asset('public/images/photos/gallery-7.jpg') }}" class="popimg"> 
+                                    <a href="{{ asset('images/photos/gallery-7.jpg') }}" class="popimg"> 
                                         <span class="icon">View Large <i class="fa fa-search-plus" aria-hidden="true"></i></span>
                                     </a>
                                 </div>
@@ -584,7 +584,7 @@
   
             <div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
               <div class="member">
-                <img src="{{ asset('public/images/team/team-1.jpg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('images/team/team-1.jpg') }}" class="img-fluid" alt="">
                 <h4>William Walter</h4>
                 <span>Chief Medical Officer</span>
               </div>
@@ -592,7 +592,7 @@
   
             <div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
               <div class="member">
-                <img src="{{ asset('public/images/team/team-2.jpg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('images/team/team-2.jpg') }}" class="img-fluid" alt="">
                 <h4>Candice Cromwell</h4>
                 <span>Anesthesiologist</span>
               </div>
@@ -600,7 +600,7 @@
   
             <div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
               <div class="member">
-                <img src="{{ asset('public/images/team/team-3.jpg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('images/team/team-3.jpg') }}" class="img-fluid" alt="">
                 <h4>Tran Nhu</h4>
                 <span>Cardiology</span>
               </div>
@@ -608,7 +608,7 @@
   
             <div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
               <div class="member">
-                <img src="{{ asset('public/images/team/team-4.jpg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('images/team/team-4.jpg') }}" class="img-fluid" alt="">
                 <h4>Jina Wilsson</h4>
                 <span>Neurosurgeon</span>
               </div>
@@ -640,7 +640,7 @@
                             <div class="testi-content-inner">
                                 <div class="testimonial-bio">
                                     <div class="avatar">
-                                        <img src="{{ asset('public/images/clients/testimonial-2.jpg') }}" alt="testimonial">
+                                        <img src="{{ asset('images/clients/testimonial-2.jpg') }}" alt="testimonial">
                                     </div>
                                 </div>
                                 <div class="testimonial-content">
@@ -667,7 +667,7 @@
                             <div class="testi-content-inner">
                             	<div class="testimonial-bio">
                                     <div class="avatar">
-                                        <img src="{{ asset('public/images/clients/testimonial-3.jpg') }}" alt="testimonial">
+                                        <img src="{{ asset('images/clients/testimonial-3.jpg') }}" alt="testimonial">
                                     </div>
                                 </div>
                                 <div class="testimonial-content">
@@ -694,7 +694,7 @@
                             <div class="testi-content-inner">
                                 <div class="testimonial-bio">
                                     <div class="avatar">
-                                        <img src="{{ asset('public/images/clients/testimonial-4.jpg') }}" alt="testimonial">
+                                        <img src="{{ asset('images/clients/testimonial-4.jpg') }}" alt="testimonial">
                                     </div>
                                 </div>
                                 <div class="testimonial-content">
@@ -730,32 +730,32 @@
             <div class="row">
                 <div class="col-lg-2 col-sm-6 ">
                     <div class="theme-single-press-content">
-                        <img src="{{ asset('public/images/partners/c-1.jpg') }}" alt="image">
+                        <img src="{{ asset('images/partners/c-1.jpg') }}" alt="image">
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-6 ">
                     <div class="theme-single-press-content">
-                        <img src="{{ asset('public/images/partners/c-2.jpg') }}" alt="image">
+                        <img src="{{ asset('images/partners/c-2.jpg') }}" alt="image">
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-6 ">
                     <div class="theme-single-press-content">
-                        <img src="{{ asset('public/images/partners/c-3.jpg') }}" alt="image">
+                        <img src="{{ asset('images/partners/c-3.jpg') }}" alt="image">
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-6 ">
                     <div class="theme-single-press-content">
-                        <img src="{{ asset('public/images/partners/c-4.jpg') }}" alt="image">
+                        <img src="{{ asset('images/partners/c-4.jpg') }}" alt="image">
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-6 ">
                     <div class="theme-single-press-content">
-                        <img src="{{ asset('public/images/partners/c-5.jpg') }}" alt="image">
+                        <img src="{{ asset('images/partners/c-5.jpg') }}" alt="image">
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-6 ">
                     <div class="theme-single-press-content">
-                        <img src="{{ asset('public/images/partners/c-6.jpg') }}" alt="image">
+                        <img src="{{ asset('images/partners/c-6.jpg') }}" alt="image">
                     </div>
                 </div>
             </div>
@@ -779,7 +779,7 @@
                   <div class="col-12 col-sm-8 col-md-6 col-lg-4 wow fadeInLeft" data-wow-delay="0.2s">
                     <a href="single-blog.html">
                     <div class="card">
-                      <img class="card-img" src="{{ asset('public/images/news/blog-1.jpg') }}" alt="blog image">
+                      <img class="card-img" src="{{ asset('images/news/blog-1.jpg') }}" alt="blog image">
                       <div class="card-body">
                         <h4 class="card-title">Abundant Source of Vitamins, Minerals and Fiber-Rich</h4>
                         <div class="blog-text">
@@ -799,7 +799,7 @@
                   <div class="col-12 col-sm-8 col-md-6 col-lg-4 wow fadeInLeft" data-wow-delay="0.2s">
                     <a href="single-blog.html">
                     <div class="card">
-                      <img class="card-img" src="{{ asset('public/images/news/blog-2.jpg') }}" alt="blog image">
+                      <img class="card-img" src="{{ asset('images/news/blog-2.jpg') }}" alt="blog image">
                       <div class="card-body">
                         <h4 class="card-title">Fish Reduced Risk of Chronic Diseases, Rich in Omega-3</h4>
                         <div class="blog-text">
@@ -819,7 +819,7 @@
                   <div class="col-12 col-sm-8 col-md-6 col-lg-4 wow fadeInLeft" data-wow-delay="0.2s">
                     <a href="single-blog.html">
                     <div class="card">
-                      <img class="card-img" src="{{ asset('public/images/news/blog-3.jpg') }}" alt="blog image">
+                      <img class="card-img" src="{{ asset('images/news/blog-3.jpg') }}" alt="blog image">
                       <div class="card-body">
                         <h4 class="card-title">Care are an essential part of maintaining good health</h4>
                         <div class="blog-text">

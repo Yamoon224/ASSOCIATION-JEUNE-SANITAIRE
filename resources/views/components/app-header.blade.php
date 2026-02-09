@@ -27,7 +27,7 @@
                     <div class="az-notification-list">
                         <div class="media new">
                             <div class="az-img-user">
-                                <img alt="" src="{{ asset('public/images/faces/face2.jpg') }}"/>
+                                <img alt="" src="{{ asset('images/faces/face2.jpg') }}"/>
                             </div>
                             <div class="media-body">
                                 <p>Congratulate <strong>Socrates Itumay</strong> for work anniversaries</p>
@@ -36,7 +36,7 @@
                         </div>
                         <div class="media new">
                             <div class="az-img-user online">
-                                <img alt="" src="{{ asset('public/images/faces/face3.jpg') }}"/>
+                                <img alt="" src="{{ asset('images/faces/face3.jpg') }}"/>
                             </div>
                             <div class="media-body">
                                 <p><strong>Joyce Chua</strong> just created a new blog post</p>
@@ -45,7 +45,7 @@
                         </div>
                         <div class="media">
                             <div class="az-img-user">
-                                <img alt="" src="{{ asset('public/images/faces/face4.jpg') }}"/>
+                                <img alt="" src="{{ asset('images/faces/face4.jpg') }}"/>
                             </div>
                             <div class="media-body">
                                 <p><strong>Althea Cabardo</strong> just created a new blog post</p>
@@ -54,7 +54,7 @@
                         </div>
                         <div class="media">
                             <div class="az-img-user">
-                                <img alt="" src="{{ asset('public/images/faces/face5.jpg') }}"/>
+                                <img alt="" src="{{ asset('images/faces/face5.jpg') }}"/>
                             </div>
                             <div class="media-body">
                                 <p><strong>Adrian Monino</strong> added new comment on your photo</p>

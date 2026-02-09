@@ -21,8 +21,8 @@
     <nav class="navbar navbar-b navbar-trans navbar-expand-lg" id="mainNav">
         <div class="container menu-bg border-4">
             <a class="navbar-brand js-scroll" href="{{ route('welcome') }}">
-                <img src="{{ asset('public/images/logo.png') }}" class="white-logo" alt="LOGO">
-                <img src="{{ asset('public/images/logo-black.png') }}" class="black-logo" alt="LOGO">
+                <img src="{{ asset('images/logo.png') }}" class="white-logo" alt="LOGO">
+                <img src="{{ asset('images/logo-black.png') }}" class="black-logo" alt="LOGO">
             </a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation"> <span></span>  <span></span>  <span></span> 
         </button>
